@@ -2,7 +2,7 @@
 This project is about finding the HR analysis of AtliQ Technologies using BI reports
 
 
-**Download dashboard file**: https://github.com/basaveshwarmane/HR_Dashboard_AtliQ_PowerBI/blob/main/HR%20ANALYTICS%20MY.pbix
+[Download dashboard file](https://github.com/basaveshwarmane/HR_Dashboard_AtliQ_PowerBI/blob/main/HR%20ANALYTICS%20MY.pbix)
 
 **DashBoard Screenshot**: 
 <img src="https://github.com/basaveshwarmane/HR_Dashboard_AtliQ_PowerBI/blob/main/HR%20ANALYTICS.png">
