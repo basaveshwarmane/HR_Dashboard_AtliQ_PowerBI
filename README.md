@@ -1,4 +1,4 @@
-# HR_Dashboard_Excel
+# HR_Dashboard_AtliQ_PowerBI
 
 Built a HR Dashboard in Excel by following a YouTube tutorial
 [Link](https://www.youtube.com/watch?v=ui657YnwLV8&t=7562s)
