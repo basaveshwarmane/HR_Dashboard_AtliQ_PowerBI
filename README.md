@@ -2,9 +2,10 @@
 This project is about finding the HR analysis of AtliQ Technologies using BI reports
 
 
-**Live dashboard**: https://www.novypro.com/project/atliq-hr-analysis
+**Live dashboard**: https://github.com/basaveshwarmane/HR_Dashboard_AtliQ_PowerBI/blob/main/HR%20ANALYTICS%20MY.pbix
 
-**Blog**: https://medium.com/@Kavya2099/8803e6da1a9b
+**DashBoard Screenshot**: 
+https://github.com/basaveshwarmane/HR_Dashboard_AtliQ_PowerBI/blob/main/HR%20ANALYTICS.png
 
 # Problem statement
 AtliQ Hardware, with multiple branches across India, provides computer hardware and peripheral manufacturers to its clients. The HR department of a company is facing challenges in monitoring employee attendance and identifying patterns of absenteeism. They need to have a comprehensive view of the attendance records of all employees, including the number of leaves taken and reasons for absence. 
